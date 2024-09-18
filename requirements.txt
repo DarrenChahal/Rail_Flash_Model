@@ -1,6 +1,5 @@
 Flask
 Gunicorn
 joblib
-re
-jsonify
-request
+nltk
+scikit-learn
